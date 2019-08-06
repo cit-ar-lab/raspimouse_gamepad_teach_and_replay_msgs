@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>raspimouse_gamepad_teach_and_replay_msgs</name>
+  <version>0.0.0</version>
+  <description>The raspimouse_gamepad_teach_and_replay_msgs package</description>
+  <maintainer email="atushi31100854@gmail.com">AtsushiSaito</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_export_depend>roscpp</build_export_depend>
+  <exec_depend>roscpp</exec_depend>
+  <build_depend>message_generation</build_depend>
+  <build_export_depend>message_generation</build_export_depend>
+  <exec_depend>message_runtime</exec_depend>
+  <build_depend>raspimouse_ros_2</build_depend>
+  <exec_depend>raspimouse_ros_2</exec_depend>
+</package>

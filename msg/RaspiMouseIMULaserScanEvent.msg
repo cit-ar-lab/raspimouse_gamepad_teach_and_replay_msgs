@@ -1,0 +1,6 @@
+raspimouse_ros_2/LightSensorValues observation_lightsensor
+sensor_msgs/LaserScan observation_laserscan
+sensor_msgs/Imu observation_imu
+sensor_msgs/MagneticField observation_magneticfield
+sensor_msgs/Temperature observation_temperature
+geometry_msgs/Twist action
